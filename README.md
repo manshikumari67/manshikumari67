@@ -14,7 +14,7 @@
 - 🌱 I’m learning **DSA in Java** and exploring backend tech
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/manshikumari67)
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind, Java**
-- 📫 How to reach me: `manshikumari345@gmail.com` *(replace with your actual)*
+- 📫 How to reach me: `manshikumari345@gmail.com`
 
 ---
 
