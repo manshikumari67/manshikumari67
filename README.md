@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Manshi Kumari</h1>
-<h3 align="center">A passionate Software Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;React%20%7C%20Tailwind%20Enthusiast;Loves%20Clean%20UI%20Design;DSA%20in%20Java%20Learner;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000" />
@@ -14,7 +14,7 @@
 - 🌱 I’m learning **DSA in Java** and exploring backend tech
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/manshikumari67)
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind, Java**
-- 📫 How to reach me: `your.email@example.com` *(replace with your actual)*
+- 📫 How to reach me: `manshikumari345@gmail.com` *(replace with your actual)*
 
 ---
 
@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo" />
 </div>
 
 ---
@@ -48,7 +48,7 @@
 ## 🔗 Connect With Me
 
 <div align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:manshikumari345@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
