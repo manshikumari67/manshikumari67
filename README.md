@@ -58,16 +58,6 @@
 
 ---
 
-## ✨ Fun & Footer
-
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
----
-
 _“First, solve the problem. Then, write the code.” – John Johnson_
 
 
