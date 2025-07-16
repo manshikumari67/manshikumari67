@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **React Projects** & my **Final Year Project - Fake News Detection**
+- 🔭 I’m currently working on **React Projects** & my **Final Year Project**
 - 🌱 Currently learning **DSA in Java** and exploring backend technologies
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/manshikumari67)
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind CSS, Java**
