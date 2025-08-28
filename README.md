@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Software Developer | Frontend Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1500&pause=600&color=FF5733&center=true&vCenter=true&width=650&lines=🚀+Frontend+Developer;🎨+React+%2B+Tailwind+Enthusiast;📚+DSA+in+Java+Learner;✨+Loves+Building+Clean+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=800&color=FF5733&center=true&vCenter=true&width=650&lines=🚀+Frontend+Developer;🎨+React+%2B+Tailwind+Enthusiast;📚+DSA+in+Java+Learner;✨+Loves+Building+Clean+UI" alt="Typing SVG" />
 </p>
+
 
 
 ---
