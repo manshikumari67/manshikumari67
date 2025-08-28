@@ -1,63 +1,87 @@
-
-<h1 align="center">Hi 👋, I'm Manshi Kumari</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">Hey there 👋, I'm Manshi Kumari</h1>
+<h3 align="center">🚀 Software Developer | Frontend Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;React%20%7C%20Tailwind%20Enthusiast;Loves%20Clean%20UI%20Design;DSA%20in%20Java%20Learner;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%2B+Tailwind+Specialist;DSA+in+Java+Learner;Always+learning+new+techs+✨" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me  
 
-- 🔭 I’m currently working on **React Projects** & my **Final Year Project**
-- 🌱 Currently learning **DSA in Java** and exploring backend technologies
-- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/manshikumari67)
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind CSS, Java**
-- 📫 Reach me at: `manshikumari345@gmail.com`
-
----
-
-## 🧰 Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" alt="HTML5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" alt="CSS3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" alt="React" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="Java" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="24" alt="Tailwind CSS" />
-</div>
+- 🔭 Working on exciting **React Projects** & my **Final Year Project**  
+- 🌱 Learning **DSA in Java** and diving into **Backend Development**  
+- 👩‍💻 Most of my work is available here 👉 [GitHub](https://github.com/manshikumari67)  
+- 💬 Ask me about: **HTML | CSS | JavaScript | React | Tailwind CSS | Java**  
+- 📫 Reach me at: **manshikumari345@gmail.com**  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manshikumari67&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manshikumari67&layout=compact&langs_count=6&theme=dracula" height="150" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,git,github,vscode" />
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## 🚀 Projects Showcase  
 
-<div align="left">
-  <a href="mailto:manshikumari345@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="32" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32" />
-  </a>
+### 🔹 HireNext – Smart Interview Preparation Platform  
+Smart platform with **Q&A forums, quizzes, leaderboards, and user stats**.  
+<p>
+  <a href="https://github.com/manshikumari67/HireNext"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://your-live-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+### 🔹 Portfolio Website  
+Personal **portfolio website** built with **React + Tailwind** to showcase skills & projects.  
+<p>
+  <a href="https://github.com/manshikumari67/Portfolio"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Live_Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+### 🔹 AquaVeda – Water Recycling Awareness  
+Educational website to spread awareness about **water recycling & sustainability**.  
+<p>
+  <a href="https://github.com/manshikumari67/AquaVeda"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://your-aquaveda-link.com"><img src="https://img.shields.io/badge/Live_Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manshikumari67&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manshikumari67&theme=radical&hide_border=true" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manshikumari67&layout=compact&theme=radical&hide_border=true" height="150" />
 </div>
 
 ---
 
-_“First, solve the problem. Then, write the code.” – John Johnson_
+## 🔗 Connect With Me  
+
+<p align="center">
+  <a href="mailto:manshikumari345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/manshikumari67"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## ✨ Fun Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
 
 
