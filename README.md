@@ -1,10 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Manshi Kumari</h1>
 <h3 align="center">🚀 Software Developer | Frontend Enthusiast | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Frontend+Developer;✨+Always+Learning" />
-</p>
-
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Frontend+Developer;✨+Always+Learning" /> </p>
 
 
 ---
