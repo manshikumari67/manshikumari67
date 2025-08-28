@@ -1,7 +1,14 @@
 <h1 align="center">Hey there 👋, I'm Manshi Kumari</h1>
 <h3 align="center">🚀 Software Developer | Frontend Enthusiast | Problem Solver</h3>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Frontend+Developer;✨+Always+Learning" /> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%2B+Tailwind+Specialist;DSA+in+Java+Learner;Always+learning+new+techs"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 
 ---
