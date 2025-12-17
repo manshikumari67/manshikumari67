@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+React+%26+Tailwind;Backend+with+Node+%26+MongoDB;Cloudinary+Media+Handling;DSA+in+Java+Learner"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=820&lines=Full+Stack+Developer+%7C+React+%26+Tailwind;Backend+with+Node+%26+MongoDB;Cloudinary+Media+Handling;DSA+in+Java+Learner"
       alt="Typing SVG"
     />
   </a>
@@ -14,13 +14,13 @@
 
 ## 🌸 About Me  
 
-- 🎓 **Final Year IT Student** with strong interest in **Full Stack Web Development**
-- 🔭 Currently building **React + Node.js applications** & my **Final Year Project**
-- 🌱 Improving **DSA in Java** and backend design skills
+- 🎓 **Final Year IT Student** passionate about **Full Stack Web Development**
+- 🔭 Building **React + Node.js applications** & working on my **Final Year Project**
+- 🌱 Strengthening **DSA in Java** and backend architecture
 - 🏆 **Smart India Hackathon Finalist**
 - 👩‍💻 Explore my work → <a href="https://github.com/manshikumari67"><b>GitHub</b></a>
 - 💬 Tech I enjoy: **React, Tailwind CSS, Node.js, MongoDB, Cloudinary**
-- 📫 Mail me at: <b>manshikumari345@gmail.com</b>
+- 📫 Reach me at: <b>manshikumari345@gmail.com</b>
 
 ---
 
@@ -50,45 +50,53 @@
 ## 🚀 Featured Projects  
 
 ### 💡 HireNext – Smart Interview Preparation Platform  
-> A **full stack interview prep platform** built to help candidates practice effectively.
 
-✔ Topic-wise **Q&A forums**  
-✔ **MCQ quizzes** & score tracking  
-✔ **User authentication**  
-✔ **MongoDB + Cloudinary** integration  
-✔ Modern UI with **React + Tailwind**
+> 🧠 A **full-stack interview preparation platform** designed to help candidates practice efficiently and track progress.
+
+**✨ Key Features**
+- ✅ Topic-wise **Q&A forums**
+- ✅ **MCQ quizzes** with score tracking
+- ✅ Secure **user authentication**
+- ✅ **MongoDB + Cloudinary** integration
+- ✅ Modern UI using **React + Tailwind**
 
 <p align="center">
   <a href="https://github.com/manshikumari67/HireNext">
-    <img src="https://img.shields.io/badge/View_Code-GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ### 🌐 Portfolio Website  
-> Personal portfolio showcasing my **skills, projects & journey**.
 
-✔ Built with **React + Tailwind CSS**  
-✔ Fully responsive & clean UI  
+> 🎨 Personal portfolio showcasing my **skills, projects, and journey** as a developer.
+
+**✨ Highlights**
+- ✅ Built with **React + Tailwind CSS**
+- ✅ **Fully responsive** & clean UI
+- ✅ Focused on clarity and simplicity
 
 <p align="center">
   <a href="https://github.com/manshikumari67/Portfolio">
-    <img src="https://img.shields.io/badge/View_Code-GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ### 🌱 AquaVeda – Water Recycling Awareness  
-> Educational website focused on **sustainability & water conservation**.
 
-✔ Awareness-driven content  
-✔ Clean design & smooth layout  
+> 💧 An educational web project promoting **water conservation and sustainability**.
+
+**✨ Highlights**
+- ✅ Awareness-driven content
+- ✅ Clean and user-friendly layout
+- ✅ Built with modern frontend practices
 
 <p align="center">
   <a href="https://github.com/manshikumari67/AquaVeda">
-    <img src="https://img.shields.io/badge/View_Code-GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -107,7 +115,7 @@
 
 ---
 
-## 🔗 Let's Connect  
+## 🔗 Let’s Connect  
 
 <p align="center">
   <a href="mailto:manshikumari345@gmail.com">
