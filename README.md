@@ -1,10 +1,10 @@
-<h1 align="center">✨ Hey there, I'm <b>Manshi Kumari</b> 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | Frontend Engineer | Problem Solver</h3>
+<h1 align="center">✨ Hi, I'm <b>Manshi Kumari</b> 👋</h1>
+<h3 align="center">🚀 Full Stack Developer | React Engineer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=820&lines=Full+Stack+Developer+%7C+React+%26+Tailwind;Backend+with+Node+%26+MongoDB;Cloudinary+Media+Handling;DSA+in+Java+Learner"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+%7C+Tailwind+CSS+Specialist;Node.js+%7C+MongoDB+Backend;DSA+in+Java+Learner;SIH+Finalist+%7C+Final+Year+IT+Student"
       alt="Typing SVG"
     />
   </a>
@@ -14,13 +14,16 @@
 
 ## 🌸 About Me  
 
-- 🎓 **Final Year IT Student** passionate about **Full Stack Web Development**
-- 🔭 Building **React + Node.js applications** & working on my **Final Year Project**
-- 🌱 Strengthening **DSA in Java** and backend architecture
-- 🏆 **Smart India Hackathon Finalist**
-- 👩‍💻 Explore my work → <a href="https://github.com/manshikumari67"><b>GitHub</b></a>
-- 💬 Tech I enjoy: **React, Tailwind CSS, Node.js, MongoDB, Cloudinary**
-- 📫 Reach me at: <b>manshikumari345@gmail.com</b>
+🎓 Final Year **Information Technology Student**  
+💻 Passionate about **Full Stack Web Development**  
+🚀 Building scalable **React + Node.js applications**  
+🧠 Strengthening **DSA in Java** & backend architecture  
+🏆 **Smart India Hackathon (SIH) Finalist**  
+📌 Actively preparing for **Software Developer / Web Developer roles**
+
+🔗 **GitHub:** https://github.com/manshikumari67  
+💼 **LinkedIn:** https://www.linkedin.com/in/manshi-kumari-15742b283  
+📫 **Email:** manshikumari345@gmail.com  
 
 ---
 
@@ -36,9 +39,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🧰 Tools & Platforms  
+### ☁️ Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mongodb" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 <p align="center">
@@ -51,66 +54,64 @@
 
 ### 💡 HireNext – Smart Interview Preparation Platform  
 
-> 🧠 A **full-stack interview preparation platform** designed to help candidates practice efficiently and track progress.
+🧠 **Full Stack Interview Preparation Platform** to help candidates practice & track progress efficiently.
 
-**✨ Key Features**
-- ✅ Topic-wise **Q&A forums**
-- ✅ **MCQ quizzes** with score tracking
-- ✅ Secure **user authentication**
-- ✅ **MongoDB + Cloudinary** integration
-- ✅ Modern UI using **React + Tailwind**
+**Key Features**
+- Topic-wise **Q&A Discussion Forum**
+- **MCQ Quizzes** with score tracking
+- **Backend completed** with Node.js & MongoDB
+- **Authentication system (Demo mode)**
+- **Cloudinary** for media handling
+- Responsive UI using **React + Tailwind CSS**
 
-<p align="center">
-  <a href="https://github.com/manshikumari67/HireNext">
-    <img src="https://img.shields.io/badge/View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+🌍 **Live Project:**  
+👉 https://hirenext.netlify.app/
+
+📂 **Repository:**  
+👉 https://github.com/manshikumari67/HireNext  
 
 ---
 
 ### 🌐 Portfolio Website  
 
-> 🎨 Personal portfolio showcasing my **skills, projects, and journey** as a developer.
+🎨 Personal portfolio showcasing **projects, skills & developer journey**
 
-**✨ Highlights**
-- ✅ Built with **React + Tailwind CSS**
-- ✅ **Fully responsive** & clean UI
-- ✅ Focused on clarity and simplicity
+**Highlights**
+- Built with **React + Tailwind CSS**
+- Fully **responsive**
+- Clean & modern UI
 
-<p align="center">
-  <a href="https://github.com/manshikumari67/Portfolio">
-    <img src="https://img.shields.io/badge/View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+🌍 **Live Website:**  
+👉 https://manshi-portfolio91.netlify.app/
+
+📂 **Repository:**  
+👉 https://github.com/manshikumari67/Portfolio  
 
 ---
 
 ### 🌱 AquaVeda – Water Recycling Awareness  
 
-> 💧 An educational web project promoting **water conservation and sustainability**.
+💧 Educational web project focused on **water conservation & sustainability**
 
-**✨ Highlights**
-- ✅ Awareness-driven content
-- ✅ Clean and user-friendly layout
-- ✅ Built with modern frontend practices
+**Highlights**
+- Awareness-driven content
+- User-friendly interface
+- Modern frontend practices
 
-<p align="center">
-  <a href="https://github.com/manshikumari67/AquaVeda">
-    <img src="https://img.shields.io/badge/View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+📂 **Repository:**  
+👉 https://github.com/manshikumari67/AquaVeda  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manshikumari67&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manshikumari67&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manshikumari67&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manshikumari67&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manshikumari67&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manshikumari67&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -119,13 +120,15 @@
 
 <p align="center">
   <a href="mailto:manshikumari345@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/manshi-kumari-15742b283">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://github.com/manshikumari67">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -134,5 +137,5 @@
 ## 💬 Dev Quote  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
