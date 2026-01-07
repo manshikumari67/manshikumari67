@@ -3,10 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+%7C+Tailwind+CSS;Node.js+%7C+MongoDB;DSA+in+Java+Learner;Smart+India+Hackathon+Finalist"
-      alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=800&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+%7C+Tailwind+CSS;Node.js+%7C+MongoDB;DSA+in+Java;Smart+India+Hackathon+Finalist" />
   </a>
 </p>
 
@@ -14,14 +11,14 @@
 
 ## 👩‍💻 About Me  
 
-I’m a **Final Year Information Technology student** with a strong interest in **Full Stack Web Development**.  
-I enjoy building **scalable web applications**, solving problems using **DSA in Java**, and continuously improving my development skills.
+I am a **Final Year IT student** passionate about **Full Stack Web Development**.  
+I enjoy building real-world applications, working with **React & Node.js**, and improving my **problem-solving skills using Java (DSA)**.
 
 - 🎓 Final Year IT Student  
-- 💻 Full Stack Developer (React + Node.js)  
-- 🧠 DSA & problem-solving focused  
-- 🏆 **Smart India Hackathon Finalist**  
-- 🎯 Targeting **Software / Web Developer roles**
+- 💻 Full Stack Developer  
+- 🧠 DSA in Java  
+- 🏆 Smart India Hackathon Finalist  
+- 🎯 Actively preparing for developer roles  
 
 📫 **Email:** manshikumari345@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/manshi-kumari-15742b283  
@@ -31,22 +28,24 @@ I enjoy building **scalable web applications**, solving problems using **DSA in 
 
 ## 🛠️ Tech Stack  
 
-### Frontend  
-- HTML5, CSS3, JavaScript  
-- React.js  
-- Tailwind CSS  
+### 🎨 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-### Backend & Database  
-- Node.js  
-- Express.js  
-- MongoDB  
+### 🧠 Backend & Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-### Tools & Platforms  
-- Git & GitHub  
-- VS Code  
-- Postman  
-- MongoDB Compass  
-- Cloudinary  
+### ⚙️ Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+<p>
+  <sub>MongoDB Compass • Cloudinary • Git • GitHub • VS Code • Postman</sub>
+</p>
 
 ---
 
@@ -54,79 +53,65 @@ I enjoy building **scalable web applications**, solving problems using **DSA in 
 
 ### 🔹 HireNext – Smart Interview Preparation Platform  
 
-A **full stack interview preparation platform** designed to help candidates practice, revise, and track their progress efficiently.
+A **full stack interview preparation platform** that helps users practice and track progress.
 
 **Features**
-- Topic-wise **Q&A discussion forum**
-- **MCQ quizzes** with score tracking
-- Backend fully implemented using **Node.js & MongoDB**
-- **Authentication system (Demo mode)**
-- Media handling with **Cloudinary**
-- Responsive UI using **React + Tailwind CSS**
+- Topic-wise Q&A forum  
+- MCQ quizzes with score tracking  
+- Backend completed (Node.js + MongoDB)  
+- Authentication system (Demo)  
+- Cloudinary integration  
+- React + Tailwind UI  
 
-🌐 **Live Demo:** https://hirenext.netlify.app/  
-📂 **Repository:** https://github.com/manshikumari67/HireNext  
+🌐 **Live:** https://hirenext.netlify.app/  
+📂 **Code:** https://github.com/manshikumari67/HireNext  
 
 ---
 
 ### 🔹 Portfolio Website  
 
-My personal portfolio showcasing **projects, skills, and experience**.
+Personal portfolio showcasing my projects and skills.
 
-**Highlights**
-- Built with **React & Tailwind CSS**
-- Fully responsive design
-- Clean and minimal UI
-
-🌐 **Live Website:** https://manshi-portfolio91.netlify.app/  
-📂 **Repository:** https://github.com/manshikumari67/Portfolio  
+🌐 **Live:** https://manshi-portfolio91.netlify.app/  
+📂 **Code:** https://github.com/manshikumari67/Portfolio  
 
 ---
 
-### 🔹 AquaVeda – Water Recycling Awareness Project  
+### 🔹 AquaVeda – Water Recycling Awareness  
 
-An educational web project focused on **water conservation and sustainability awareness**.
+Educational project focused on water conservation.
 
-**Highlights**
-- Informative and awareness-driven content
-- User-friendly interface
-- Modern frontend practices
-
-📂 **Repository:** https://github.com/manshikumari67/AquaVeda  
+📂 **Code:** https://github.com/manshikumari67/AquaVeda  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manshikumari67&show_icons=true&count_private=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=manshikumari67&theme=radical&hide_border=true" height="160"/>
-</p>
+> ⚠️ GitHub stats widgets may not load due to GitHub API limitations.  
+> My work can be best evaluated through **projects, live demos, and code quality**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manshikumari67&layout=compact&theme=radical&hide_border=true"/>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manshikumari67&theme=radical" />
 </p>
 
 ---
 
 ## 🤝 Let’s Connect  
 
-<p align="center">
+<p>
   <a href="mailto:manshikumari345@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/manshi-kumari-15742b283">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/manshikumari67">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-## 💡 Quote I Believe In  
-
 <p align="center">
-  <i>"Consistency beats talent when talent doesn’t work consistently."</i>
+  <i>"Consistency matters more than perfection."</i>
 </p>
