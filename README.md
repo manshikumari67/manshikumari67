@@ -17,7 +17,7 @@ I enjoy building real-world applications, working with **React & Node.js**, and 
 - 🎓 Final Year IT Student  
 - 💻 Full Stack Developer  
 - 🧠 DSA in Java  
-- 🏆 Smart India Hackathon Finalist  
+- 🏆 Smart India Hackathon Finalist 2024
 - 🎯 Actively preparing for developer roles  
 
 📫 **Email:** manshikumari345@gmail.com  
