@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm <b>Manshi Kumari</b> 👋</h1>
-<h3 align="center">Full Stack Web Developer | React Engineer | Problem Solver</h3>
+<h3 align="center">Full Stack Web Developer • React Engineer • Problem Solver</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=800&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+%7C+Tailwind+CSS;Node.js+%7C+MongoDB;DSA+in+Java;Smart+India+Hackathon+Finalist" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+%7C+Tailwind+CSS;Node.js+%7C+MongoDB;DSA+in+Java;Smart+India+Hackathon+Finalist+2024" />
   </a>
 </p>
 
@@ -11,14 +11,15 @@
 
 ## 👩‍💻 About Me  
 
-I am a **Final Year IT student** passionate about **Full Stack Web Development**.  
-I enjoy building real-world applications, working with **React & Node.js**, and improving my **problem-solving skills using Java (DSA)**.
+I’m a **Final Year IT student** with a strong interest in **Full Stack Web Development**.  
+I love building **scalable, real-world web applications**, crafting clean user interfaces with **React**, and developing robust backends using **Node.js & MongoDB**.  
+Alongside development, I consistently improve my **problem-solving skills through DSA in Java**.
 
 - 🎓 Final Year IT Student  
-- 💻 Full Stack Developer  
-- 🧠 DSA in Java  
-- 🏆 Smart India Hackathon Finalist 2024
-- 🎯 Actively preparing for developer roles  
+- 💻 Full Stack Web Developer  
+- 🧠 Strong in DSA (Java)  
+- 🏆 Smart India Hackathon 2024 – Grand Finalist  
+- 🎯 Actively preparing for Software / Web Developer roles  
 
 📫 **Email:** manshikumari345@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/manshi-kumari-15742b283  
@@ -44,7 +45,7 @@ I enjoy building real-world applications, working with **React & Node.js**, and 
 </p>
 
 <p>
-  <sub>MongoDB Compass • Cloudinary • Git • GitHub • VS Code • Postman</sub>
+  <sub>MongoDB Compass • Cloudinary • GitHub • VS Code • Postman</sub>
 </p>
 
 ---
@@ -53,24 +54,24 @@ I enjoy building real-world applications, working with **React & Node.js**, and 
 
 ### 🔹 HireNext – Smart Interview Preparation Platform  
 
-A **full stack interview preparation platform** that helps users practice and track progress.
+A **full-stack interview preparation platform** designed to help users practice, assess performance, and track learning progress.
 
-**Features**
-- Topic-wise Q&A forum  
-- MCQ quizzes with score tracking  
-- Backend completed (Node.js + MongoDB)  
-- Authentication system (Demo)  
-- Cloudinary integration  
-- React + Tailwind UI  
+**Key Features**
+- Topic-wise Q&A discussion forum  
+- MCQ-based quizzes with score tracking  
+- User authentication system (demo)  
+- Backend built with **Node.js & MongoDB**  
+- Cloudinary integration for media handling  
+- Responsive UI using **React + Tailwind CSS**
 
-🌐 **Live:** https://hirenext.netlify.app/  
-📂 **Code:** https://github.com/manshikumari67/HireNext  
+🌐 **Live Demo:** https://hirenext.netlify.app/  
+📂 **Source Code:** https://github.com/manshikumari67/HireNext  
 
 ---
 
 ### 🔹 Portfolio Website  
 
-Personal portfolio showcasing my projects and skills.
+A personal portfolio showcasing my projects, skills, and development journey.
 
 🌐 **Live:** https://manshi-portfolio91.netlify.app/  
 📂 **Code:** https://github.com/manshikumari67/Portfolio  
@@ -79,7 +80,7 @@ Personal portfolio showcasing my projects and skills.
 
 ### 🔹 AquaVeda – Water Recycling Awareness  
 
-Educational project focused on water conservation.
+An educational web project focused on **water conservation and recycling awareness**.
 
 📂 **Code:** https://github.com/manshikumari67/AquaVeda  
 
@@ -87,8 +88,8 @@ Educational project focused on water conservation.
 
 ## 📊 GitHub Activity  
 
-> ⚠️ GitHub stats widgets may not load due to GitHub API limitations.  
-> My work can be best evaluated through **projects, live demos, and code quality**.
+> ⚠️ GitHub stats widgets may occasionally not load due to GitHub API limits.  
+> My work is best evaluated through **projects, live demos, and clean code structure**.
 
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manshikumari67&theme=radical" />
@@ -113,5 +114,5 @@ Educational project focused on water conservation.
 ---
 
 <p align="center">
-  <i>"Consistency matters more than perfection."</i>
+  <i>"Consistency beats motivation. Every single day."</i>
 </p>
