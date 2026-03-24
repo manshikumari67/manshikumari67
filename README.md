@@ -109,15 +109,23 @@ Tools:
 
 ---
 
-## 📊 $ live_stats
+## 📊 $ github_stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manshikumari67&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manshikumari67&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manshikumari67&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=manshikumari67&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manshikumari67&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manshikumari67&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+</p>
+
+---
+
+## 📈 $ contribution_graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manshikumari67&theme=tokyo-night&hide_border=true&height=200"/>
 </p>
 
 ---
