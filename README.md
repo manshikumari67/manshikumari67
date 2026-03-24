@@ -109,20 +109,15 @@ Tools:
 
 ---
 
-## 📊 $ stats
-
-```bash
-LeetCode Problems Solved : 200+
-Consistency Streak       : 100 Days+
-Hackathon Achievement    : SIH Finalist 🏆
-```
-
----
-
-## 📈 $ github_activity
+## 📊 $ live_stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manshikumari67&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manshikumari67&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manshikumari67&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manshikumari67&layout=compact&theme=tokyonight" />
 </p>
 
 ---
